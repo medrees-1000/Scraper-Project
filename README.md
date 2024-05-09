@@ -9,3 +9,6 @@ You need to create a virtual enviornment for your the repo for the python packag
 
  ## To install the requirements
  pip install -r .\requirements.txt
+
+ ## Start the env in terminal if it doesn't 
+ .\env\Scripts\Activate.ps1
